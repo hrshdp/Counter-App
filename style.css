@@ -1,0 +1,29 @@
+body {
+    color: white;
+    background-color: #101010;
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#dharmendra {
+    display: flex;
+    justify-content: center;
+    margin-top: 50vh;
+}
+
+#sunny {
+    align-items: center;
+}
+
+#btnArea {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin: 10px;
+    color: white;
+    background-color: #101010;
+    border: 1px solid rgba(192, 192, 192, 0.219);
+    height: 30px;
+    width: 60px;
+}
