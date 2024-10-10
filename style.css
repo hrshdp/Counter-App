@@ -10,8 +10,8 @@ body {
     margin-top: 50vh;
 }
 
-#sunny {
-    align-items: center;
+h1 {
+    text-align: center;
 }
 
 #btnArea {

@@ -16,3 +16,9 @@ dec.addEventListener("click", ()=> {
     }
 })
 
+const reset = document.querySelector("#reset");
+reset.addEventListener("click", ()=> {
+    counter = 0;
+    document.querySelector("h1").textContent = `Counter = ${counter}`;
+})
+
